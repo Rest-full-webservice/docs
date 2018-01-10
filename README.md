@@ -8,6 +8,7 @@ https://allegro.tech/2014/10/async-rest.html</br>
 https://praveer09.github.io/technology/2016/07/28/using-asynchrony-to-reduce-response-times/#why-do-we-need-asynchronous-programs</br>
 https://dzone.com/articles/jax-rs-20-asynchronous-server-and-client</br>
 https://abhirockzz.wordpress.com/2016/04/03/asynchronous-jax-rs-basics-gotchas/</br>
+http://niels.nu/blog/2016/spring-async-rest.html</br>
 
 <h2>jersey</h2>
 https://jersey.github.io/</br>
