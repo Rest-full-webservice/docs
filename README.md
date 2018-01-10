@@ -3,6 +3,13 @@ Jersey api also provided Asynchronous support for rest full services on top JAX-
 What all interfaces should be asynchronous
 The implementations of interfaces that perform IO operations or long running computations are good candidates for making asynchronous.
 
+Asynchronous programming is a means of writing non-blocking code by running a task on a separate thread than the main application thread and notifying the main thread about its progress, completion or failure.
+
+This way, your main thread does not block/wait for the completion of the task and it can execute other tasks in parallel.
+
+Having this kind of parallelism greatly improves the performance of your programs.
+
+
 https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/cn/part1/chapter13/server_asynchronous_response_processing.html</br>
 https://allegro.tech/2014/10/async-rest.html</br>
 https://praveer09.github.io/technology/2016/07/28/using-asynchrony-to-reduce-response-times/#why-do-we-need-asynchronous-programs</br>
@@ -13,6 +20,12 @@ https://howtodevelopit.wordpress.com/2016/03/15/how-to-make-asynchronous-calls-f
 http://www.baeldung.com/spring-async</br>
 http://www.baeldung.com/spring-mvc-async-security</br>
 https://www.slideshare.net/delabassee/jaxrs-21-reloaded</br>
+https://www.leveluplunch.com/java/tutorials/026-asynchronous-native-java-method-calls-spring/</br>
+https://www.callicoder.com/java-8-completablefuture-tutorial/</br>
+https://dzone.com/articles/spring-and-threads-async</br>
+https://spring.io/guides/gs/async-method/</br>
+https://memorynotfound.com/asynchronous-service-with-spring-async-and-java-future/</br>
+http://carlmartensen.com/completablefuture-deferredresult-async</br>
 
 <h2>jersey</h2>
 https://jersey.github.io/</br>
