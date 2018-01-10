@@ -9,12 +9,19 @@ https://praveer09.github.io/technology/2016/07/28/using-asynchrony-to-reduce-res
 https://dzone.com/articles/jax-rs-20-asynchronous-server-and-client</br>
 https://abhirockzz.wordpress.com/2016/04/03/asynchronous-jax-rs-basics-gotchas/</br>
 http://niels.nu/blog/2016/spring-async-rest.html</br>
+https://howtodevelopit.wordpress.com/2016/03/15/how-to-make-asynchronous-calls-for-a-restful-web-service-using-spring/</br>
+http://www.baeldung.com/spring-async</br>
+http://www.baeldung.com/spring-mvc-async-security</br>
+https://www.slideshare.net/delabassee/jaxrs-21-reloaded</br>
 
 <h2>jersey</h2>
 https://jersey.github.io/</br>
 https://jersey.github.io/documentation/latest/async.html</br>
 http://www.jeejava.com/asynchronous-rest-service-using-jersey-completion-callback/</br>
 https://danielkvist.net/wiki/jersey-async-rest</br>
+https://www.ivankrizsan.se/2016/12/29/rest-with-asynchronous-jersey-and-rxjava-part-4/</br>
+https://www.ivankrizsan.se/2016/12/17/rest-with-asynchronous-jersey-and-rxjava-part-3/</br>
+https://www.ivankrizsan.se/2016/11/19/rest-with-asynchronous-jersey-and-rxjava-part-1/</br>
 
 <h2>JAX-RS 2.1 Reactive Client API</h2>
 https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api
