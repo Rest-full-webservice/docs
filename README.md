@@ -7,6 +7,8 @@ https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/cn/part1/chapter1
 https://allegro.tech/2014/10/async-rest.html
 https://praveer09.github.io/technology/2016/07/28/using-asynchrony-to-reduce-response-times/#why-do-we-need-asynchronous-programs
 https://dzone.com/articles/jax-rs-20-asynchronous-server-and-client
+https://abhirockzz.wordpress.com/2016/04/03/asynchronous-jax-rs-basics-gotchas/
+
 <h2>jersey</h2>
 https://jersey.github.io/
 https://jersey.github.io/documentation/latest/async.html
