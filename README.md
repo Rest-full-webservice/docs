@@ -16,8 +16,8 @@ http://www.jeejava.com/asynchronous-rest-service-using-jersey-completion-callbac
 https://danielkvist.net/wiki/jersey-async-rest</br>
 
 <h2>JAX-RS 2.1 Reactive Client API</h2>
-https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api</br>
-Replacing Async() with Rx()
+https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api
+Replacing Async() with Rx()</br>
 https://blog.dejavu.sk/2015/01/07/reactive-jersey-client-part-2-usage-and-supported-reactive-libraries/</br>
 https://blog.dejavu.sk/2015/01/07/reactive-jersey-client-part-3-customization/</br>
 https://github.com/jersey/jersey/tree/master/examples/rx-client-webapp</br>
